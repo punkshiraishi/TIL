@@ -1,0 +1,2 @@
+# warningが多い
+$ rails db:migrate などで warning がたくさん出る。エラーではない。
